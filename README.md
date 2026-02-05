@@ -27,3 +27,28 @@
 "단순히 코드를 복사하는 것에 그치지 않고, 가설을 세워 시각화로 확인하는 과정이 흥미로웠다."
 
 "에러 발생 시 제미나이(AI)를 활용해 해결하며 문제 해결 능력을 길렀다."
+
+
+객실 등급(Pclass)별 생존자 수 시각화
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/1640b118-5989-45b5-a2b7-ff79989cb968" />
+
+가족 수에 따른 생존율 시각화
+<img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/592fe0a1-19d3-4d56-962d-3b2bf2cd0718" />
+
+호칭별 생존율 시각화
+<img width="846" height="470" alt="image" src="https://github.com/user-attachments/assets/00bc8992-942e-45e7-8b01-c5acaf017b32" />
+
+연령대별 생존율 평균 시각화
+<img width="846" height="549" alt="image" src="https://github.com/user-attachments/assets/6a3838bc-b618-4083-a4a2-079059ff4bb5" />
+
+연령대별로 나누고, 그 안에서 성별(Sex)로 한 번 더 분리한 생존율 시각화
+<img width="1001" height="547" alt="image" src="https://github.com/user-attachments/assets/8b7f0722-494e-4897-9043-52e1ef7bba8b" />
+
+히트맵
+<img width="776" height="682" alt="image" src="https://github.com/user-attachments/assets/0b2bd525-6f44-47ec-a8b7-01ff3d96c955" />
+
+중요도 추출
+<img width="614" height="435" alt="image" src="https://github.com/user-attachments/assets/aba240e5-9234-44bd-939c-acc55e76ded8" />
+
+랜덤포레스트 모델링 결과값
+변수를 추가한 최종 모델 정확도: 83.24%
